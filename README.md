@@ -1,7 +1,7 @@
 # 🕶️ RVA Project – L4G
 A school project focused on Virtual Reality (VR) and Augmented Reality (AR) concepts.
 
-Developed in collaboration with xbeatrix.
+Developed in collaboration with [xbeatrix](https://github.com/xbeatriz).
 
 # 🛠️ Technologies Used
 HTML
